@@ -4,6 +4,4 @@ Cargo.lock
 
 **/*.rs.bk
 
-*.html
-
 build/
